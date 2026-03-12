@@ -3,10 +3,9 @@
 **Self-taught journey** — 1 hour per day  
 **Goal**: First remote job as AI Security & Governance Specialist (AIGS)  
 
-**Current status**: Week 1 / Day 1  
 **Started**: March 2026  
 
-## What I'm Building
+## What I'm Working On
 - Google Responsible AI certificates  
 - CompTIA Security+ (SY0-701)  
 - Real portfolio projects (bias audits, red-teaming, governance frameworks)  
@@ -18,7 +17,7 @@
 - `reflections/` → Why + Innovation notes  
 
 ## Latest Updates
-- [Week 1 Plan](weekly-plans/Week-1.md)
+- [Week Plans](weekly-plans/)
 - [Progress Log](progress-logs/)  
 
 Follow my journey → [LinkedIn](https://www.linkedin.com/in/adeniyi-dara-27800a372/)
