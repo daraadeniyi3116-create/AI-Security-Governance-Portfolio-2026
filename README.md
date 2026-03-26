@@ -14,7 +14,7 @@
 - `weekly-plans/` → My full weekly study plans  
 - `progress-logs/` → Daily/weekly updates  
 - `projects/` → All my hands-on work  
-- `reflections/` → Special THoughts notes  
+- `reflections/` → Special THoughts notes(This is linked to each day's logs)`
 
 ## Latest Updates
 - [Week Plans](weekly-plans/)
