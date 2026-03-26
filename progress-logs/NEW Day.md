@@ -6,6 +6,17 @@ Now that my exams are over, I am back and fully ready to continue building my sk
 This marks my fresh start — Day 1 again, with better focus and consistency.
 
 
-#**Finihsed Google Introduction to Responsible AI (preview mode)**
-Here is the badge from Google [Adeniyi Dara has earned this award!
+***FORMAT***
+# Day 1 - March 26, 2026
+
+## What I Did Today
+
+## Key Learnings
+
+
+
+1. **Started and Finihsed Google Introduction to Responsible AI (preview mode)**
+Here is the badge from Google- [_Adeniyi Dara has earned this award!_
 ](https://www.skills.google/public_profiles/f164ff79-74bd-4efd-adef-d6370da498de/badges/23146152)
+
+* I learnt that really every decison made at every state of the AI affects how responsible it is including how we use it too.
