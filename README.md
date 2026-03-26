@@ -14,7 +14,7 @@
 - `weekly-plans/` → My full weekly study plans  
 - `progress-logs/` → Daily/weekly updates  
 - `projects/` → All my hands-on work  
-- `reflections/` → Why + Innovation notes  
+- `reflections/` → Special THoughts notes  
 
 ## Latest Updates
 - [Week Plans](weekly-plans/)
@@ -24,3 +24,4 @@ Follow my journey → [LinkedIn](https://www.linkedin.com/in/adeniyi-dara-27800a
 
 ---
 Last updated: March 2026
+**"The best way to predict the future is to create it."**
